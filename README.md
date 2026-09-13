@@ -125,22 +125,23 @@ These simulations were used to verify the expected behavior of the individual bu
 ```text
 32-bit-Array-Multiplier-Cadence/
 │
-├── README.md
+├── design/
+│   ├── full_adder/
+│   ├── half_adder/
+│   └── multiplier/
 │
 ├── schematics/
-│   ├── half_adder.jpeg
 │   ├── full_adder.jpeg
+│   ├── half_adder.jpeg
 │   ├── multiplier_image.png
 │   ├── multiplier_image2.png
 │   └── multiplier_image3.png
 │
-├── simulations/
-│   ├── half_adder.jpeg
-│   ├── full_adder.jpeg
-│   ├── multiplier_cont_waveform.jpeg
-│   └── multiplier_waveform.jpeg
-│
-└── docs/
+└── simulations/
+    ├── full_adder.jpeg
+    ├── half_adder.jpeg
+    ├── multiplier_cont_waveform.jpeg
+    └── multiplier_waveform.jpeg
 ```
 
 ---
