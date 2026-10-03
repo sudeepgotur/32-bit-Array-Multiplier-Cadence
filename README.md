@@ -1,8 +1,8 @@
-# 16-bit Array Multiplier – Cadence Virtuoso
+# 32-bit Array Multiplier – Cadence Virtuoso
 
 ## Overview
 
-This project implements a **16-bit Array Multiplier** using **Half Adders (HA)** and **Full Adders (FA)** and was designed and simulated using **Cadence Virtuoso**.
+This project implements a **32-bit Array Multiplier** using **Half Adders (HA)** and **Full Adders (FA)** and was designed and simulated using **Cadence Virtuoso**.
 
 The design follows a structured array-multiplier architecture in which partial products are generated and accumulated using cascaded Half Adder and Full Adder stages.
 
